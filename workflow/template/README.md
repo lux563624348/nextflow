@@ -23,6 +23,6 @@ How execute it
 
 4) Launch the pipeline execution: 
 
-    `nextflow run nextflow-io/rnatoy -with-docker` 
+    `nextflow run ./workflow/template/main.nf -with-docker` 
     
     
