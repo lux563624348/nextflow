@@ -5,4 +5,4 @@
 docker pull nextflow/rnatoy:1.3
 
 # Launch the pipeline
-./nextflow run nextflow-io/rnatoy -with-docker
+./nextflow run ./workflow/template/main.nf -with-docker
